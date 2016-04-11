@@ -1,5 +1,18 @@
 # vscode-react-intellisense-short
 **Short** version of guideline for setting up VS Code intellisense to work with react.js projects.
+### Versions
+1. OS X El Capitan
+2. VS Code - Insiders v0.10.14
+3. ESLint VS Code extension v0.10.13
+4. react v0.14.8
+5. babel-core v6.7.4
+6. eslint v2.7.0
+7. babel-eslint v6.0.2
+
+### What you get:
+1. Intellisense for es2015
+2. Intellisense for react
+3. Intellisense within your project modules
 
 ## Prerequisites:
 > This need to be done only once and will work for all projects 
