@@ -1,4 +1,4 @@
-# vscode-react-intellisens-short
+# vscode-react-intellisense-short
 **Short** version of guideline for setting up VS Code intellisense to work with react.js projects.
 
 ## Prerequisites:
